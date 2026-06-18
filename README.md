@@ -7,14 +7,17 @@
 | [0002-add-two-numbers](https://github.com/Sivagiri2007123/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sivagiri2007123/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sivagiri2007123/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/Sivagiri2007123/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sivagiri2007123/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Sivagiri2007123/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sivagiri2007123/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Sivagiri2007123/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
