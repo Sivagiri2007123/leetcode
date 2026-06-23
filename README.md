@@ -27,6 +27,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sivagiri2007123/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sivagiri2007123/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Sivagiri2007123/leetcode/tree/main/0027-remove-element/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +50,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sivagiri2007123/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Sivagiri2007123/leetcode/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
