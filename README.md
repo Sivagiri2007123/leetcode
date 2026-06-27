@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/Sivagiri2007123/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sivagiri2007123/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Sivagiri2007123/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/Sivagiri2007123/leetcode/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sivagiri2007123/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Sivagiri2007123/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Sivagiri2007123/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/Sivagiri2007123/leetcode/tree/main/0066-plus-one/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
