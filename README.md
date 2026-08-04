@@ -9,11 +9,13 @@
 | [0009-palindrome-number](https://github.com/Sivagiri2007123/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Sivagiri2007123/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Sivagiri2007123/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0268-missing-number](https://github.com/Sivagiri2007123/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sivagiri2007123/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sivagiri2007123/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0268-missing-number](https://github.com/Sivagiri2007123/leetcode/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,11 +34,13 @@
 | [0035-search-insert-position](https://github.com/Sivagiri2007123/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Sivagiri2007123/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Sivagiri2007123/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0268-missing-number](https://github.com/Sivagiri2007123/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sivagiri2007123/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Sivagiri2007123/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0268-missing-number](https://github.com/Sivagiri2007123/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +65,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Sivagiri2007123/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0268-missing-number](https://github.com/Sivagiri2007123/leetcode/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Sivagiri2007123/leetcode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
